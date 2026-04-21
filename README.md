@@ -4,7 +4,7 @@
 
 📍 Based in Munich, Germany
 
-💬 Talk to me about Kotlin, Android, Cocktails and Penguins
+💬 Talk to me about Kotlin, Android, Cocktails or Penguins
 
 ⚡ Fun fact: One and a half Emperor Penguins tall
 
